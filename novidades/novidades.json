@@ -1,0 +1,29 @@
+{
+	"_nota": "Novidades do launcher do Eldor Online. Ate 8 itens, o mais novo primeiro. image = arquivo nesta pasta (1344 x 800, JPG) ou endereco https. O launcher le este arquivo ao abrir.",
+	"items": [
+		{
+			"title": "Alpha fechado aberto",
+			"date": "2026-11-18",
+			"text": "O servidor do Eldor está no ar. Crie sua conta no site e peça o acesso ao alpha.",
+			"image": "alpha.jpg"
+		},
+		{
+			"title": "Mercado e troca entre jogadores",
+			"date": "2026-11-17",
+			"text": "Anuncie itens no Mercado (Alt+L) e troque direto com quem está ao seu lado usando /trocar.",
+			"image": "eryndor.jpg"
+		},
+		{
+			"title": "Amigos, grupo e chat por canais",
+			"date": "2026-11-17",
+			"text": "Lista de amigos da conta (Alt+Z), grupos de até 5 com EXP dividida, e canais Perto, Mundo e Grupo.",
+			"image": "asterion.jpg"
+		},
+		{
+			"title": "Um mundo em três atos",
+			"date": "2026-11-16",
+			"text": "Quatro capitais, do vulcão às terras geladas. O alpha começa pelo Ato I, em Eryndor.",
+			"image": "mundo.jpg"
+		}
+	]
+}
