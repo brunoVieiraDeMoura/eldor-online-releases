@@ -2,6 +2,14 @@
 	"_nota": "Novidades do Eldor Online (launcher: as 8 primeiras; site eldoronline.com.br/novidades: todas). O mais novo primeiro. id = versao, at = hora da publicacao. image = arquivo nesta pasta (1344 x 800, JPG; launcher/imagem_novidade.py gera uma por versao) ou endereco https.",
 	"items": [
 		{
+			"id": "0.9.3",
+			"title": "Versão 0.9.3: Nova marca e blog de novidades",
+			"date": "2026-11-19",
+			"at": "2026-11-19T18:14:42-03:00",
+			"text": "A tela de entrar e a de personagens ganharam a marca do site: a coroa do Eldor e o letreiro dourado. No launcher, clique numa novidade para ler o texto inteiro, com a data e a hora em que saiu. E agora todas as atualizações ficam no site, em eldoronline.com.br/novidades.",
+			"image": "novidade_0_9_3.jpg"
+		},
+		{
 			"id": "0.9.2",
 			"title": "Versão 0.9.2: Casa de Leilão",
 			"date": "2026-11-19",
