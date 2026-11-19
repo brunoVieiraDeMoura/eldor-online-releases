@@ -2,6 +2,12 @@
 	"_nota": "Novidades do launcher do Eldor Online. Ate 8 itens, o mais novo primeiro. image = arquivo nesta pasta (1344 x 800, JPG) ou endereco https. O launcher le este arquivo ao abrir.",
 	"items": [
 		{
+			"title": "Versão 0.9.0: Versão completa",
+			"date": "2026-11-19",
+			"text": "Fim do crash na ida para o Jardim das Estátuas, mesma habilidade em níveis diferentes na barra, cores no quadro da Guilda e mais. Baixe a versão completa no launcher. Obrigado, BebiN, IPLAY e SpOoK!",
+			"image": "eryndor.jpg"
+		},
+		{
 			"title": "Versão 0.8.0: Correio corrigido e sons novos",
 			"date": "2026-11-19",
 			"text": "Correio: corrigida a caixa de entrada que aparecia vazia mesmo com cartas novas. Sons novos: maça, martelo e cajado de perto com impacto de soco; machado com som de espada; tiro do mago com som ao sair e ao acertar.",
@@ -42,12 +48,6 @@
 			"date": "2026-11-18",
 			"text": "O servidor do Eldor está no ar. Crie sua conta no site e peça o acesso ao alpha.",
 			"image": "alpha.jpg"
-		},
-		{
-			"title": "Mercado e troca entre jogadores",
-			"date": "2026-11-17",
-			"text": "Anuncie itens no Mercado (Alt+L) e troque direto com quem está ao seu lado usando /trocar.",
-			"image": "eryndor.jpg"
 		}
 	]
 }
