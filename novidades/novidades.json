@@ -2,6 +2,12 @@
 	"_nota": "Novidades do launcher do Eldor Online. Ate 8 itens, o mais novo primeiro. image = arquivo nesta pasta (1344 x 800, JPG) ou endereco https. O launcher le este arquivo ao abrir.",
 	"items": [
 		{
+			"title": "Versão 0.7.9: Correio",
+			"date": "2026-11-19",
+			"text": "Novo: Correio! Botão ao lado do Bestiário. Mande cartas, itens e ouro para qualquer personagem pelo nome, mesmo fora do jogo (taxa: 5 de ouro × seu nível, +5% do ouro enviado). Carta não resgatada em 7 dias volta para quem mandou. Recompensas da equipe chegam por lá e valem 30 dias.",
+			"image": "eryndor.jpg"
+		},
+		{
 			"title": "Versão 0.7.8: 5 correções",
 			"date": "2026-11-19",
 			"text": "Ouro guardado no armazém, seu ouro na janela de refino, quadro da Guilda com um clique, contador do Corromper no alvo e Selene visível na Torre. Obrigado, Maguno, IPLAY e SpOoK!",
@@ -42,12 +48,6 @@
 			"date": "2026-11-17",
 			"text": "Lista de amigos da conta (Alt+Z), grupos de até 5 com EXP dividida, e canais Perto, Mundo e Grupo.",
 			"image": "asterion.jpg"
-		},
-		{
-			"title": "Um mundo em três atos",
-			"date": "2026-11-16",
-			"text": "Quatro capitais, do vulcão às terras geladas. O alpha começa pelo Ato I, em Eryndor.",
-			"image": "mundo.jpg"
 		}
 	]
 }
