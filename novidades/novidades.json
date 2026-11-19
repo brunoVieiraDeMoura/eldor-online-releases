@@ -2,6 +2,12 @@
 	"_nota": "Novidades do launcher do Eldor Online. Ate 8 itens, o mais novo primeiro. image = arquivo nesta pasta (1344 x 800, JPG) ou endereco https. O launcher le este arquivo ao abrir.",
 	"items": [
 		{
+			"title": "Versão 0.9.1: Fim do teleporte para a entrada do mapa",
+			"date": "2026-11-19",
+			"text": "Corrigido: às vezes o personagem era levado para a entrada do mapa sem motivo, dizendo que estava fora do mapa. Também: a janela de reparo agora é um quadro só, centralizado; e o atalho da barra mostra o nível máximo mesmo com a habilidade colocada duas vezes. A partir desta versão, o servidor avisa no chat com 10 segundos de contagem antes de reiniciar. Obrigado, IPLAY, BebiN e Maguno!",
+			"image": "eryndor.jpg"
+		},
+		{
 			"title": "Versão 0.9.0: Versão completa",
 			"date": "2026-11-19",
 			"text": "Fim do crash na ida para o Jardim das Estátuas, mesma habilidade em níveis diferentes na barra, cores no quadro da Guilda e mais. Baixe a versão completa no launcher. Obrigado, BebiN, IPLAY e SpOoK!",
@@ -41,12 +47,6 @@
 			"title": "Versão 0.7.5: Reportar bug",
 			"date": "2026-11-19",
 			"text": "Achou um erro? Esc → Reportar bug. Bug corrigido rende 1.000 zeny e 10 Poções Amarelas de agradecimento. Os que mais ajudarem entram no ranking.",
-			"image": "alpha.jpg"
-		},
-		{
-			"title": "Alpha fechado começou",
-			"date": "2026-11-18",
-			"text": "O servidor do Eldor está no ar. Crie sua conta no site e peça o acesso ao alpha.",
 			"image": "alpha.jpg"
 		}
 	]
