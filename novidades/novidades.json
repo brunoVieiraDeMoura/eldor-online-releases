@@ -2,6 +2,12 @@
 	"_nota": "Novidades do launcher do Eldor Online. Ate 8 itens, o mais novo primeiro. image = arquivo nesta pasta (1344 x 800, JPG) ou endereco https. O launcher le este arquivo ao abrir.",
 	"items": [
 		{
+			"title": "Versão 0.8.0: Correio corrigido e sons novos",
+			"date": "2026-11-19",
+			"text": "Correio: corrigida a caixa de entrada que aparecia vazia mesmo com cartas novas. Sons novos: maça, martelo e cajado de perto com impacto de soco; machado com som de espada; tiro do mago com som ao sair e ao acertar.",
+			"image": "eryndor.jpg"
+		},
+		{
 			"title": "Versão 0.7.9: Correio",
 			"date": "2026-11-19",
 			"text": "Novo: Correio! Botão ao lado do Bestiário. Mande cartas, itens e ouro para qualquer personagem pelo nome, mesmo fora do jogo (taxa: 5 de ouro × seu nível, +5% do ouro enviado). Carta não resgatada em 7 dias volta para quem mandou. Recompensas da equipe chegam por lá e valem 30 dias.",
@@ -42,12 +48,6 @@
 			"date": "2026-11-17",
 			"text": "Anuncie itens no Mercado (Alt+L) e troque direto com quem está ao seu lado usando /trocar.",
 			"image": "eryndor.jpg"
-		},
-		{
-			"title": "Amigos, grupo e chat por canais",
-			"date": "2026-11-17",
-			"text": "Lista de amigos da conta (Alt+Z), grupos de até 5 com EXP dividida, e canais Perto, Mundo e Grupo.",
-			"image": "asterion.jpg"
 		}
 	]
 }
