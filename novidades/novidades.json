@@ -2,6 +2,12 @@
 	"_nota": "Novidades do launcher do Eldor Online. Ate 8 itens, o mais novo primeiro. image = arquivo nesta pasta (1344 x 800, JPG) ou endereco https. O launcher le este arquivo ao abrir.",
 	"items": [
 		{
+			"title": "Versão 0.7.5: Reportar bug",
+			"date": "2026-11-19",
+			"text": "Achou um erro? Esc → Reportar bug. Bug corrigido rende 1.000 zeny e 10 Poções Amarelas de agradecimento. Os que mais ajudarem entram no ranking.",
+			"image": "alpha.jpg"
+		},
+		{
 			"title": "Alpha fechado começou",
 			"date": "2026-11-18",
 			"text": "O servidor do Eldor está no ar. Crie sua conta no site e peça o acesso ao alpha.",
