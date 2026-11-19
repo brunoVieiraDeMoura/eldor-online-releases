@@ -2,6 +2,12 @@
 	"_nota": "Novidades do launcher do Eldor Online. Ate 8 itens, o mais novo primeiro. image = arquivo nesta pasta (1344 x 800, JPG) ou endereco https. O launcher le este arquivo ao abrir.",
 	"items": [
 		{
+			"title": "Versão 0.9.2: Casa de Leilão",
+			"date": "2026-11-19",
+			"text": "Novo: Casa de Leilão! Fale com o leiloeiro nas capitais para comprar e vender itens de outros jogadores, com filtros por categoria, nível e preço. Venda avulsa ou em lotes; taxa de 0,5% para anunciar e 5% na venda. Tudo chega pelo Correio. O antigo Mercado (Alt+L) foi encerrado.",
+			"image": "eryndor.jpg"
+		},
+		{
 			"title": "Versão 0.8.1: Casa de Leilão",
 			"date": "2026-11-19",
 			"text": "Novo: Casa de Leilão! Fale com o leiloeiro nas capitais para comprar e vender itens de outros jogadores, com filtros por categoria, nível e preço. Venda avulsa ou em lotes; taxa de 0,5% para anunciar e 5% na venda. Tudo chega pelo Correio. O antigo Mercado (Alt+L) foi encerrado.",
@@ -41,12 +47,6 @@
 			"title": "Versão 0.7.7: SP sentado",
 			"date": "2026-11-19",
 			"text": "Sentado, o personagem recupera 2% do SP máximo por segundo, além da regeneração em dobro. O Reportar bug agora envia a versão que você está jogando.",
-			"image": "eryndor.jpg"
-		},
-		{
-			"title": "Versão 0.7.6: 2 bugs corrigidos",
-			"date": "2026-11-19",
-			"text": "Fim do prólogo: chegada na frente da porta do Quartel. Monstros não passeiam mais colados na borda do mapa. Obrigado, Killer e Maguno!",
 			"image": "eryndor.jpg"
 		}
 	]
