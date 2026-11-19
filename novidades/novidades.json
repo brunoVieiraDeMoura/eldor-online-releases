@@ -2,6 +2,14 @@
 	"_nota": "Novidades do Eldor Online (launcher: as 8 primeiras; site eldoronline.com.br/novidades: todas). O mais novo primeiro. id = versao, at = hora da publicacao. image = arquivo nesta pasta (1344 x 800, JPG; launcher/imagem_novidade.py gera uma por versao) ou endereco https.",
 	"items": [
 		{
+			"id": "0.9.4",
+			"title": "Versão 0.9.4: Correção da atualização",
+			"date": "2026-11-19",
+			"at": "2026-11-19T18:34:01-03:00",
+			"text": "Corrigido: com o launcher antigo, o jogo baixava a atualização mas não a usava (ficava sem a Casa de Leilão e com o Mercado antigo). Se o jogo disser que está desatualizado, baixe o launcher novo em eldoronline.com.br/baixar e abra o jogo por ele.",
+			"image": "novidade_0_9_4.jpg"
+		},
+		{
 			"id": "0.9.3",
 			"title": "Versão 0.9.3: Nova marca e blog de novidades",
 			"date": "2026-11-19",
