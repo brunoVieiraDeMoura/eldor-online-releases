@@ -2,6 +2,14 @@
 	"_nota": "Novidades do Eldor Online (launcher: as 8 primeiras; site eldoronline.com.br/novidades: todas). O mais novo primeiro. id = versao, at = hora da publicacao. image = arquivo nesta pasta (1344 x 800, JPG; launcher/imagem_novidade.py gera uma por versao) ou endereco https.",
 	"items": [
 		{
+			"id": "0.9.6",
+			"title": "Versão 0.9.6: 7 correções",
+			"date": "2026-11-19",
+			"at": "2026-11-19T19:45:48-03:00",
+			"text": "Reparar centralizado, nível na barra de atalhos, tamanho da interface, rosto do alvo, chat novo e reações em ícones (Alt+K, arrastáveis pra barra), X dourado nos quadros, ícones no menu e outros jogadores sem tremer dentro das casas. Obrigado, SpOoK e IPLAY!",
+			"image": "novidade_0_9_6.jpg"
+		},
+		{
 			"id": "0.9.5",
 			"title": "Versão 0.9.5: Leilão repaginado e logo nítido",
 			"date": "2026-11-19",
