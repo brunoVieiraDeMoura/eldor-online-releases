@@ -1,5 +1,5 @@
 {
-	"_nota": "Novidades do launcher do Eldor Online. Ate 8 itens, o mais novo primeiro. image = arquivo nesta pasta (1344 x 800, JPG) ou endereco https. O launcher le este arquivo ao abrir.",
+	"_nota": "Novidades do Eldor Online (launcher: as 8 primeiras; site eldoronline.com.br/novidades: todas). O mais novo primeiro. id = versao, at = hora da publicacao. image = arquivo nesta pasta (1344 x 800, JPG; launcher/imagem_novidade.py gera uma por versao) ou endereco https.",
 	"items": [
 		{
 			"id": "0.9.2",
@@ -7,7 +7,7 @@
 			"date": "2026-11-19",
 			"at": "2026-11-19T17:48:48-03:00",
 			"text": "Novo: Casa de Leilão! Fale com o leiloeiro nas capitais para comprar e vender itens de outros jogadores, com filtros por categoria, nível e preço. Venda avulsa ou em lotes; taxa de 0,5% para anunciar e 5% na venda. Tudo chega pelo Correio. O antigo Mercado (Alt+L) foi encerrado.",
-			"image": "eryndor.jpg"
+			"image": "novidade_01_safira.jpg"
 		},
 		{
 			"id": "0.8.1",
@@ -15,7 +15,7 @@
 			"date": "2026-11-19",
 			"at": "2026-11-19T17:47:14-03:00",
 			"text": "Novo: Casa de Leilão! Fale com o leiloeiro nas capitais para comprar e vender itens de outros jogadores, com filtros por categoria, nível e preço. Venda avulsa ou em lotes; taxa de 0,5% para anunciar e 5% na venda. Tudo chega pelo Correio. O antigo Mercado (Alt+L) foi encerrado.",
-			"image": "eryndor.jpg"
+			"image": "novidade_02_vinho.jpg"
 		},
 		{
 			"id": "0.9.1",
@@ -23,7 +23,7 @@
 			"date": "2026-11-19",
 			"at": "2026-11-19T17:40:31-03:00",
 			"text": "Corrigido: às vezes o personagem era levado para a entrada do mapa sem motivo, dizendo que estava fora do mapa. Também: a janela de reparo agora é um quadro só, centralizado; e o atalho da barra mostra o nível máximo mesmo com a habilidade colocada duas vezes. A partir desta versão, o servidor avisa no chat com 10 segundos de contagem antes de reiniciar. Obrigado, IPLAY, BebiN e Maguno!",
-			"image": "eryndor.jpg"
+			"image": "novidade_03_floresta.jpg"
 		},
 		{
 			"id": "0.9.0",
@@ -31,7 +31,7 @@
 			"date": "2026-11-19",
 			"at": "2026-11-19T15:55:10-03:00",
 			"text": "Fim do crash na ida para o Jardim das Estátuas, mesma habilidade em níveis diferentes na barra, cores no quadro da Guilda e mais. Baixe a versão completa no launcher. Obrigado, BebiN, IPLAY e SpOoK!",
-			"image": "eryndor.jpg"
+			"image": "novidade_04_ametista.jpg"
 		},
 		{
 			"id": "0.8.0",
@@ -39,7 +39,7 @@
 			"date": "2026-11-19",
 			"at": "2026-11-19T14:50:05-03:00",
 			"text": "Correio: corrigida a caixa de entrada que aparecia vazia mesmo com cartas novas. Sons novos: maça, martelo e cajado de perto com impacto de soco; machado com som de espada; tiro do mago com som ao sair e ao acertar.",
-			"image": "eryndor.jpg"
+			"image": "novidade_05_bronze.jpg"
 		},
 		{
 			"id": "0.7.9",
@@ -47,7 +47,7 @@
 			"date": "2026-11-19",
 			"at": "2026-11-19T14:09:11-03:00",
 			"text": "Novo: Correio! Botão ao lado do Bestiário. Mande cartas, itens e ouro para qualquer personagem pelo nome, mesmo fora do jogo (taxa: 5 de ouro × seu nível, +5% do ouro enviado). Carta não resgatada em 7 dias volta para quem mandou. Recompensas da equipe chegam por lá e valem 30 dias.",
-			"image": "eryndor.jpg"
+			"image": "novidade_06_aco.jpg"
 		},
 		{
 			"id": "0.7.8",
@@ -55,7 +55,7 @@
 			"date": "2026-11-19",
 			"at": "2026-11-19T13:20:57-03:00",
 			"text": "Ouro guardado no armazém, seu ouro na janela de refino, quadro da Guilda com um clique, contador do Corromper no alvo e Selene visível na Torre. Obrigado, Maguno, IPLAY e SpOoK!",
-			"image": "eryndor.jpg"
+			"image": "novidade_07_mar.jpg"
 		},
 		{
 			"id": "0.7.7",
@@ -63,7 +63,7 @@
 			"date": "2026-11-19",
 			"at": "2026-11-19T12:10:36-03:00",
 			"text": "Sentado, o personagem recupera 2% do SP máximo por segundo, além da regeneração em dobro. O Reportar bug agora envia a versão que você está jogando.",
-			"image": "eryndor.jpg"
+			"image": "novidade_08_brasa.jpg"
 		}
 	]
 }
