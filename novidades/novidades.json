@@ -2,6 +2,14 @@
 	"_nota": "Novidades do Eldor Online (launcher: as 8 primeiras; site eldoronline.com.br/novidades: todas). O mais novo primeiro. id = versao, at = hora da publicacao. image = arquivo nesta pasta (1344 x 800, JPG; launcher/imagem_novidade.py gera uma por versao) ou endereco https.",
 	"items": [
 		{
+			"id": "0.9.7",
+			"title": "Versão 0.9.7: Crash na viagem corrigido",
+			"date": "2026-11-20",
+			"at": "2026-11-20T10:36:20-03:00",
+			"text": "A viagem dos Portões das Catacumbas para o Jardim das Estátuas não derruba mais o jogo. A Concha de Musgo explode quando é ferida. No leilão, o botão direito mostra a ficha do item e os botões ficaram mais limpos. Nas lojas, a ficha da arma mostra quais profissões podem usar. Obrigado, SpOoK, Netuno e Rakza!",
+			"image": "novidade_0_9_7.jpg"
+		},
+		{
 			"id": "0.9.6",
 			"title": "Versão 0.9.6: 7 correções",
 			"date": "2026-11-19",
