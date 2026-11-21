@@ -2,6 +2,14 @@
 	"_nota": "Novidades do Eldor Online (launcher: as 8 primeiras; site eldoronline.com.br/novidades: todas). O mais novo primeiro. id = versao, at = hora da publicacao. image = arquivo nesta pasta (1344 x 800, JPG; launcher/imagem_novidade.py gera uma por versao) ou endereco https.",
 	"items": [
 		{
+			"id": "0.9.10",
+			"title": "Versão 0.9.10: Correção: interface de volta",
+			"date": "2026-11-21",
+			"at": "2026-11-21T18:53:53-03:00",
+			"text": "A atualização anterior escondia toda a interface (barra, chat, menus). Corrigido! Todas as novidades da 0.9.9 continuam: dicas nas habilidades e itens, leilão e chat mais limpos e o Menu para interface grande.",
+			"image": "novidade_0_9_10.jpg"
+		},
+		{
 			"id": "0.9.9",
 			"title": "Versão 0.9.9: Dicas, leilão, chat e interface grande",
 			"date": "2026-11-21",
