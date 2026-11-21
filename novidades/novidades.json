@@ -2,6 +2,14 @@
 	"_nota": "Novidades do Eldor Online (launcher: as 8 primeiras; site eldoronline.com.br/novidades: todas). O mais novo primeiro. id = versao, at = hora da publicacao. image = arquivo nesta pasta (1344 x 800, JPG; launcher/imagem_novidade.py gera uma por versao) ou endereco https.",
 	"items": [
 		{
+			"id": "1.0.0",
+			"title": "Versão 1.0.0: Conversa privada, Amigos novo e regras de grupo",
+			"date": "2026-11-21",
+			"at": "2026-11-21T19:06:34-03:00",
+			"text": "Sussurros agora abrem uma caixa de conversa com a pessoa (arraste, mude o tamanho, silencie, reporte ou bloqueie pelo menu). A janela de Amigos (Alt+Z) foi refeita: cards com a classe e quem está online, e ao adicionar um amigo você confere o personagem (rosto, classe e nível) antes de mandar o pedido. No grupo, o líder escolhe as regras: EXP dividida por igual ou cada um o seu, e loot individual ou sorteado entre o grupo. E no menu (Esc) chegou o botão Sugestões.",
+			"image": "novidade_1_0_0.jpg"
+		},
+		{
 			"id": "0.9.10",
 			"title": "Versão 0.9.10: Correção: interface de volta",
 			"date": "2026-11-21",
