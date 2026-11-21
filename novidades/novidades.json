@@ -2,6 +2,14 @@
 	"_nota": "Novidades do Eldor Online (launcher: as 8 primeiras; site eldoronline.com.br/novidades: todas). O mais novo primeiro. id = versao, at = hora da publicacao. image = arquivo nesta pasta (1344 x 800, JPG; launcher/imagem_novidade.py gera uma por versao) ou endereco https.",
 	"items": [
 		{
+			"id": "0.9.9",
+			"title": "Versão 0.9.9: Dicas, leilão, chat e interface grande",
+			"date": "2026-11-21",
+			"at": "2026-11-21T18:40:39-03:00",
+			"text": "Passe o mouse nas habilidades da barra para ver a descrição, e nos itens da bolsa e do equipamento para ver o nome. Ataques com aviso no chão dos monstros batem 2x a 3x mais forte: desvie! Leilão com cartões mais enxutos, chat mais limpo e menu do Esc sem ícones. Com a interface em 130%+, os botões de baixo viram um Menu e a barra fica no lugar. A rota no Esconderijo dos Gatunos agora desce pelo alçapão. Obrigado, SpOoK, IPLAY, Zake e BetãoDoPão!",
+			"image": "novidade_0_9_9.jpg"
+		},
+		{
 			"id": "0.9.8",
 			"title": "Versão 0.9.8: Rota, recargas e Concha de Musgo",
 			"date": "2026-11-21",
