@@ -2,6 +2,14 @@
 	"_nota": "Novidades do Eldor Online (launcher: as 8 primeiras; site eldoronline.com.br/novidades: todas). O mais novo primeiro. id = versao, at = hora da publicacao. image = arquivo nesta pasta (1344 x 800, JPG; launcher/imagem_novidade.py gera uma por versao) ou endereco https.",
 	"items": [
 		{
+			"id": "1.0.1",
+			"title": "Versão 1.0.1: Ajustes na conversa privada",
+			"date": "2026-11-21",
+			"at": "2026-11-21T19:38:31-03:00",
+			"text": "A caixa de conversa privada ficou mais clara, ganhou um botão de enviar redondo (›) e o canto de mudar o tamanho agora funciona direito. Também corrigimos a bolsa, que piscava ao passar o mouse, e a dica das habilidades.",
+			"image": "novidade_1_0_1.jpg"
+		},
+		{
 			"id": "1.0.0",
 			"title": "Versão 1.0.0: Conversa privada, Amigos novo e regras de grupo",
 			"date": "2026-11-21",
