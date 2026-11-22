@@ -2,6 +2,14 @@
 	"_nota": "Novidades do Eldor Online (launcher: as 8 primeiras; site eldoronline.com.br/novidades: todas). O mais novo primeiro. id = versao, at = hora da publicacao. image = arquivo nesta pasta (1344 x 800, JPG; launcher/imagem_novidade.py gera uma por versao) ou endereco https.",
 	"items": [
 		{
+			"id": "1.0.2",
+			"title": "Versão 1.0.2",
+			"date": "2026-11-22",
+			"at": "2026-11-22T17:39:24-03:00",
+			"text": "Mapa-múndi mostra a rota até o objetivo da missão (bandeira verde no mapa e trecho de barco em azul), e a rota das caçadas não manda mais para mapas sem saída. Bestiário: a ficha do monstro tem 'Onde encontrar' com os mapas dele; clique para ver no Mapa-múndi. Poções e buffs ativos continuam depois de sair do jogo ou trocar de personagem. Botões não mostram mais a mão do sistema no lugar do cursor do jogo. Missão Registros Alterados: na defesa do arquivo os Kobolds vêm um de cada vez.",
+			"image": "novidade_1_0_2.jpg"
+		},
+		{
 			"id": "1.0.1",
 			"title": "Versão 1.0.1: Ajustes na conversa privada",
 			"date": "2026-11-21",
