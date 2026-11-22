@@ -2,6 +2,14 @@
 	"_nota": "Novidades do Eldor Online (launcher: as 8 primeiras; site eldoronline.com.br/novidades: todas). O mais novo primeiro. id = versao, at = hora da publicacao. image = arquivo nesta pasta (1344 x 800, JPG; launcher/imagem_novidade.py gera uma por versao) ou endereco https.",
 	"items": [
 		{
+			"id": "1.0.3",
+			"title": "Versão 1.0.3",
+			"date": "2026-11-22",
+			"at": "2026-11-22T17:52:12-03:00",
+			"text": "Interface padronizada: todas as janelas com o mesmo visual limpo do chat — um tom de fundo só, cantos retos, abas e campos com sublinhado dourado e botões em três tamanhos. A moldura dourada das janelas e o botão dourado continuam. No Alt+Z, divisórias entre as abas e bolinhas nas regras do grupo; no Armazém, um filtro para a Bolsa e outro para o Armazém.",
+			"image": "novidade_1_0_3.jpg"
+		},
+		{
 			"id": "1.0.2",
 			"title": "Versão 1.0.2",
 			"date": "2026-11-22",
