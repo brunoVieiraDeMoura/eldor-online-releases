@@ -2,6 +2,14 @@
 	"_nota": "Novidades do Eldor Online (launcher: as 8 primeiras; site eldoronline.com.br/novidades: todas). O mais novo primeiro. id = versao, at = hora da publicacao. image = arquivo nesta pasta (1344 x 800, JPG; launcher/imagem_novidade.py gera uma por versao) ou endereco https.",
 	"items": [
 		{
+			"id": "1.0.4",
+			"title": "Versão 1.0.4",
+			"date": "2026-11-22",
+			"at": "2026-11-22T19:34:28-03:00",
+			"text": "Agora os outros jogadores veem você montado no seu cavalo. Chat: clique no nick de quem falou para mandar um sussurro, e Shift+clique num item da bolsa para mostrar [Item] na mensagem (quem clicar vê os detalhes). Outros jogadores veem os buffs do Noviço (Anjo da Guarda, Bênção, Aumentar AGI...). O guia de missão entende mapas cortados pelo mar: da Estrada da Seda para Ravenor ele leva ao barco de Zahrat. A estalagem de Alzarek voltou ao normal. O menu … da conversa privada ganhou fundo próprio.",
+			"image": "novidade_1_0_4.jpg"
+		},
+		{
 			"id": "1.0.3",
 			"title": "Versão 1.0.3",
 			"date": "2026-11-22",
