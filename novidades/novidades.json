@@ -2,6 +2,14 @@
 	"_nota": "Novidades do Eldor Online (launcher: as 8 primeiras; site eldoronline.com.br/novidades: todas). O mais novo primeiro. id = versao, at = hora da publicacao. image = arquivo nesta pasta (1344 x 800, JPG; launcher/imagem_novidade.py gera uma por versao) ou endereco https.",
 	"items": [
 		{
+			"id": "1.0.8",
+			"title": "Versão 1.0.8",
+			"date": "2026-11-23",
+			"at": "2026-11-23T02:50:28-03:00",
+			"text": "Ao morrer agora se perde 5% do EXP do próximo nível, e o cartão da derrota mostra quanto foi. Monstros perto dos portais não matam mais você na tela de carregamento: a proteção de chegada só começa quando o mapa termina de carregar. A 'sombra' parada de outros jogadores não aparece mais. Clicar no nick para sussurrar funciona em todas as linhas do chat. De dia, a Leiloeira Marta atende do lado de fora da Casa de Leilões em Asterion.",
+			"image": "novidade_1_0_8.jpg"
+		},
+		{
 			"id": "1.0.7",
 			"title": "Versão 1.0.7",
 			"date": "2026-11-23",
