@@ -2,6 +2,14 @@
 	"_nota": "Novidades do Eldor Online (launcher: as 8 primeiras; site eldoronline.com.br/novidades: todas). O mais novo primeiro. id = versao, at = hora da publicacao. image = arquivo nesta pasta (1344 x 800, JPG; launcher/imagem_novidade.py gera uma por versao) ou endereco https.",
 	"items": [
 		{
+			"id": "1.0.9",
+			"title": "Versão 1.0.9",
+			"date": "2026-11-23",
+			"at": "2026-11-23T14:36:17-03:00",
+			"text": "Os outros jogadores agora veem o Cristal Protetor, a Névoa Tóxica e a Chuva Curativa no chão e ouvem os sons das suas habilidades e golpes vindos do seu lado, mais baixos de longe. Os cavalos ganharam som de passos. Teleportadores e barqueiros ficam no posto também à noite. Apertar X várias vezes não faz mais o personagem sentar e levantar sozinho. A Leiloeira Marta fica atrás do balcão, de frente para os bancos.",
+			"image": "novidade_1_0_9.jpg"
+		},
+		{
 			"id": "1.0.8",
 			"title": "Versão 1.0.8",
 			"date": "2026-11-23",
