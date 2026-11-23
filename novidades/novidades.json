@@ -2,6 +2,14 @@
 	"_nota": "Novidades do Eldor Online (launcher: as 8 primeiras; site eldoronline.com.br/novidades: todas). O mais novo primeiro. id = versao, at = hora da publicacao. image = arquivo nesta pasta (1344 x 800, JPG; launcher/imagem_novidade.py gera uma por versao) ou endereco https.",
 	"items": [
 		{
+			"id": "1.0.5",
+			"title": "Versão 1.0.5",
+			"date": "2026-11-22",
+			"at": "2026-11-22T21:50:54-03:00",
+			"text": "Os outros jogadores agora veem os buffs que você usa em si mesmo também no Sacerdote, Mercador, Gatuno, Druida e Bruxa. Item linkado no chat vai exatamente como é: com refino (+5), cor da raridade, almas, runas e feitiços. Itens do Armazém não piscam mais com o mouse em cima. Depois de mandar um sussurro, o WASD volta a andar na hora. O portal da Câmara da Esfinge agora fica entre as patas, na frente da entrada.",
+			"image": "novidade_1_0_5.jpg"
+		},
+		{
 			"id": "1.0.4",
 			"title": "Versão 1.0.4",
 			"date": "2026-11-22",
