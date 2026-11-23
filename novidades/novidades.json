@@ -2,6 +2,14 @@
 	"_nota": "Novidades do Eldor Online (launcher: as 8 primeiras; site eldoronline.com.br/novidades: todas). O mais novo primeiro. id = versao, at = hora da publicacao. image = arquivo nesta pasta (1344 x 800, JPG; launcher/imagem_novidade.py gera uma por versao) ou endereco https.",
 	"items": [
 		{
+			"id": "1.0.12",
+			"title": "Versão 1.0.12",
+			"date": "2026-11-23",
+			"at": "2026-11-23T20:20:24-03:00",
+			"text": "Mapas carregam bem mais rápido: os Portões das Catacumbas caíram de ~39 s para ~9 s, e os mapas de mata densa e de pântano (E6, E7, F5) ficaram 2 a 3 vezes mais rápidos. Em média, a troca de mapa ficou 40% mais rápida — sem mudar nada no visual: as mesmas árvores, nos mesmos lugares. A tela de carregamento não congela mais na primeira visita a um mapa novo. Na conversa com NPC, a placa com o nome voltou a ser como era.",
+			"image": "novidade_1_0_12.jpg"
+		},
+		{
 			"id": "1.0.11",
 			"title": "Versão 1.0.11",
 			"date": "2026-11-23",
