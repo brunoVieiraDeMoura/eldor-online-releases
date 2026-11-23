@@ -2,6 +2,14 @@
 	"_nota": "Novidades do Eldor Online (launcher: as 8 primeiras; site eldoronline.com.br/novidades: todas). O mais novo primeiro. id = versao, at = hora da publicacao. image = arquivo nesta pasta (1344 x 800, JPG; launcher/imagem_novidade.py gera uma por versao) ou endereco https.",
 	"items": [
 		{
+			"id": "1.0.10",
+			"title": "Versão 1.0.10",
+			"date": "2026-11-23",
+			"at": "2026-11-23T17:39:04-03:00",
+			"text": "Monstros contornam cercas e paredes (e desistem de quem não alcançam, como no cemitério de F6) e se espalham em volta do jogador; esqueletos do Bruxo atacam o alvo da Corrupção e do Medo; bússola de portais na borda do minimapa; teclas das janelas configuráveis e M abre o mapa-múndi; selo de peso na mochila; aba Sistema no chat; EXP atual / necessária nas barras; fraquezas de elemento no bestiário; Espaço como atalho não reabre mais a última janela.",
+			"image": "novidade_1_0_10.jpg"
+		},
+		{
 			"id": "1.0.9",
 			"title": "Versão 1.0.9",
 			"date": "2026-11-23",
