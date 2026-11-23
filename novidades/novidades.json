@@ -2,6 +2,14 @@
 	"_nota": "Novidades do Eldor Online (launcher: as 8 primeiras; site eldoronline.com.br/novidades: todas). O mais novo primeiro. id = versao, at = hora da publicacao. image = arquivo nesta pasta (1344 x 800, JPG; launcher/imagem_novidade.py gera uma por versao) ou endereco https.",
 	"items": [
 		{
+			"id": "1.0.11",
+			"title": "Versão 1.0.11",
+			"date": "2026-11-23",
+			"at": "2026-11-23T20:12:45-03:00",
+			"text": "A tecla J não liga mais o auto ataque (fica livre; o auto ataque usa só a tecla da barra, Z por padrão, e trocá-la desliga o Z); setas de portal do minimapa sem nomes, com sino, zoom e nome do mapa fora do aro; desligar Efeitos silencia todos os grupos de som; a aba Sistema do chat obedece os filtros da engrenagem; o chat guarda a aba ao trocar de mapa e clicar fora da caixa de texto devolve o WASD.",
+			"image": "novidade_1_0_11.jpg"
+		},
+		{
 			"id": "1.0.10",
 			"title": "Versão 1.0.10",
 			"date": "2026-11-23",
