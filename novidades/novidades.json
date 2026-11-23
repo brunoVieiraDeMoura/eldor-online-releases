@@ -2,6 +2,14 @@
 	"_nota": "Novidades do Eldor Online (launcher: as 8 primeiras; site eldoronline.com.br/novidades: todas). O mais novo primeiro. id = versao, at = hora da publicacao. image = arquivo nesta pasta (1344 x 800, JPG; launcher/imagem_novidade.py gera uma por versao) ou endereco https.",
 	"items": [
 		{
+			"id": "1.0.7",
+			"title": "Versão 1.0.7",
+			"date": "2026-11-23",
+			"at": "2026-11-23T01:40:56-03:00",
+			"text": "Ao morrer, o personagem perde os buffs ativos. A recuperação de HP/SP agora para com 80% do peso. O Escrivão do Entreposto, na banca de fora de Qadira, agora vende poções e flechas. A bolinha vermelha do Bestiário some de vez ao abrir a ficha do monstro. Quando outro jogador renasce no mesmo mapa, a vida dele aparece certa no alvo.",
+			"image": "novidade_1_0_7.jpg"
+		},
+		{
 			"id": "1.0.6",
 			"title": "Versão 1.0.6",
 			"date": "2026-11-22",
