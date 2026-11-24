@@ -2,6 +2,14 @@
 	"_nota": "Novidades do Eldor Online (launcher: as 8 primeiras; site eldoronline.com.br/novidades: todas). O mais novo primeiro. id = versao, at = hora da publicacao. image = arquivo nesta pasta (1344 x 800, JPG; launcher/imagem_novidade.py gera uma por versao) ou endereco https.",
 	"items": [
 		{
+			"id": "1.1.2",
+			"title": "Versão 1.1.2",
+			"date": "2026-11-23",
+			"at": "2026-11-23T23:51:25-03:00",
+			"text": "Na Troca, botão direito mostra os detalhes do item (Shift+clique oferta a pilha toda); itens linkados no chat mostram todos os feitiços; a Conjuração das habilidades mostra quanto a DES reduz (ex.: 2,5 s (-1 DES)); Roubar respeita a raridade dos itens.",
+			"image": "novidade_1_1_2.jpg"
+		},
+		{
 			"id": "1.1.1",
 			"title": "Versão 1.1.1",
 			"date": "2026-11-23",
