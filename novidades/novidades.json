@@ -2,6 +2,14 @@
 	"_nota": "Novidades do Eldor Online (launcher: as 8 primeiras; site eldoronline.com.br/novidades: todas). O mais novo primeiro. id = versao, at = hora da publicacao. image = arquivo nesta pasta (1344 x 800, JPG; launcher/imagem_novidade.py gera uma por versao) ou endereco https.",
 	"items": [
 		{
+			"id": "1.1.1",
+			"title": "Versão 1.1.1",
+			"date": "2026-11-23",
+			"at": "2026-11-23T23:34:54-03:00",
+			"text": "Roubar (Gatuno) ajustado: agora cada item tem a chance de ser roubado igual à chance de drop dele — itens comuns saem fácil, itens raros continuam raros. O Roubar não funciona mais em MVP nem em chefe, e não rouba Alma, runas nem fragmentos. Também: clique direito em qualquer item da janela de troca abre os detalhes, e links de item no chat mantêm todos os encantamentos.",
+			"image": "novidade_1_1_1.jpg"
+		},
+		{
 			"id": "1.1.0",
 			"title": "Versão 1.1.0",
 			"date": "2026-11-23",
