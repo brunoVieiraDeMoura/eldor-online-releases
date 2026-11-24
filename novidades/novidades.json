@@ -2,6 +2,14 @@
 	"_nota": "Novidades do Eldor Online (launcher: as 8 primeiras; site eldoronline.com.br/novidades: todas). O mais novo primeiro. id = versao, at = hora da publicacao. image = arquivo nesta pasta (1344 x 800, JPG; launcher/imagem_novidade.py gera uma por versao) ou endereco https.",
 	"items": [
 		{
+			"id": "1.1.3",
+			"title": "Versão 1.1.3",
+			"date": "2026-11-24",
+			"at": "2026-11-24T00:08:39-03:00",
+			"text": "Fúria Automática do Espadachim liga sozinha com 30% de vida ou menos; ícone do efeito Escondido de volta.",
+			"image": "novidade_1_1_3.jpg"
+		},
+		{
 			"id": "1.1.2",
 			"title": "Versão 1.1.2",
 			"date": "2026-11-23",
