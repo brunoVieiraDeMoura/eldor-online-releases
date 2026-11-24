@@ -2,6 +2,14 @@
 	"_nota": "Novidades do Eldor Online (launcher: as 8 primeiras; site eldoronline.com.br/novidades: todas). O mais novo primeiro. id = versao, at = hora da publicacao. image = arquivo nesta pasta (1344 x 800, JPG; launcher/imagem_novidade.py gera uma por versao) ou endereco https.",
 	"items": [
 		{
+			"id": "1.1.4",
+			"title": "Versão 1.1.4",
+			"date": "2026-11-24",
+			"at": "2026-11-24T14:38:29-03:00",
+			"text": "Demo Alpha Key: agora dá para jogar 2 horas antes de ter o acesso ao Alpha. Em Minha conta, no site, clique em Resgatar Demo Alpha Key, baixe o jogo e jogue — o tempo só conta com o personagem dentro do jogo. Quando a demo termina, você pode apoiar o jogo com um dos pacotes ou pedir acesso ao Alpha; liberou, seu personagem volta a jogar na hora.",
+			"image": "novidade_1_1_4.jpg"
+		},
+		{
 			"id": "1.1.3",
 			"title": "Versão 1.1.3",
 			"date": "2026-11-24",
