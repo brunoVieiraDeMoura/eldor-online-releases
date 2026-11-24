@@ -2,6 +2,14 @@
 	"_nota": "Novidades do Eldor Online (launcher: as 8 primeiras; site eldoronline.com.br/novidades: todas). O mais novo primeiro. id = versao, at = hora da publicacao. image = arquivo nesta pasta (1344 x 800, JPG; launcher/imagem_novidade.py gera uma por versao) ou endereco https.",
 	"items": [
 		{
+			"id": "1.1.5",
+			"title": "Versão 1.1.5",
+			"date": "2026-11-24",
+			"at": "2026-11-24T18:34:54-03:00",
+			"text": "Botão Sair na tela de entrar para fechar o jogo; a Investida (Shift) sem direção agora vai sempre para a frente do personagem; tela de bloqueio da Demo Alpha mais clara.",
+			"image": "novidade_1_1_5.jpg"
+		},
+		{
 			"id": "1.1.4",
 			"title": "Versão 1.1.4",
 			"date": "2026-11-24",
