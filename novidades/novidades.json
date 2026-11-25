@@ -2,6 +2,14 @@
 	"_nota": "Novidades do Eldor Online (launcher: as 8 primeiras; site eldoronline.com.br/novidades: todas). O mais novo primeiro. id = versao, at = hora da publicacao. image = arquivo nesta pasta (1344 x 800, JPG; launcher/imagem_novidade.py gera uma por versao) ou endereco https.",
 	"items": [
 		{
+			"id": "2.0.3",
+			"title": "Versão 2.0.3",
+			"date": "2026-11-25",
+			"at": "2026-11-25T15:41:52-03:00",
+			"text": "Rota de missão: entra no Arquivo Imperial (O Diário da Expedição) e passa sozinha para a próxima missão. Esqueletos do Bruxo defendem o Bruxo. Botões laterais do mouse (M4/M5) nos atalhos. Painéis de subir de nível menores. Mais Tartarugas do Oásis na Estrada da Seda. Imperador sentado no trono. Banca do leilão de Ravenor mais visível.",
+			"image": "novidade_2_0_3.jpg"
+		},
+		{
 			"id": "2.0.2",
 			"title": "Versão 2.0.2: Correções do Clérigo e das masmorras",
 			"date": "2026-11-25",
