@@ -2,6 +2,14 @@
 	"_nota": "Novidades do Eldor Online (launcher: as 8 primeiras; site eldoronline.com.br/novidades: todas). O mais novo primeiro. id = versao, at = hora da publicacao. image = arquivo nesta pasta (1344 x 800, JPG; launcher/imagem_novidade.py gera uma por versao) ou endereco https.",
 	"items": [
 		{
+			"id": "2.0.2",
+			"title": "Versão 2.0.2: Correções do Clérigo e das masmorras",
+			"date": "2026-11-25",
+			"at": "2026-11-25T07:39:09-03:00",
+			"text": "Angelical (Clérigo): o número do golpe recebido agora mostra o dano já reduzido pela metade, e o custo de HP de itens e habilidades não é mais cortado pelo Angelical. Também nesta versão: a emboscada da missão A Vigília dos Peregrinos ficou com 1 Cerejeira Viva; o guia de rota não para mais na parede nos andares das Catacumbas de Asterion; as cercas sobre a ponte norte da Ponte de Pedra saíram; as dicas do rastreador de missões debaixo do minimapa ficam abertas; e a estátua do anjo no 3º andar das Catacumbas não fica mais em cima do portal. Obrigado a quem reportou!",
+			"image": "novidade_2_0_2.jpg"
+		},
+		{
 			"id": "2.0.1",
 			"title": "Versão 2.0.1",
 			"date": "2026-11-24",
