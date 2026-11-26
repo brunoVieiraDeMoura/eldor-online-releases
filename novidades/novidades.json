@@ -2,6 +2,14 @@
 	"_nota": "Novidades do Eldor Online (launcher: as 8 primeiras; site eldoronline.com.br/novidades: todas). O mais novo primeiro. id = versao, at = hora da publicacao. image = arquivo nesta pasta (1344 x 800, JPG; launcher/imagem_novidade.py gera uma por versao) ou endereco https.",
 	"items": [
 		{
+			"id": "2.0.7",
+			"title": "Versão 2.0.7",
+			"date": "2026-11-26",
+			"at": "2026-11-26T15:05:19-03:00",
+			"text": "Avisos novos: 'Muito longe' quando o alvo está fora do alcance da habilidade, e o nome de cada efeito negativo (Envenenado, Silêncio, Lentidão...) aparece colorido em quem recebe. Campo de treino: armadilhas do Arqueiro e Erguer Exército funcionando, e o tutorial é totalmente individual. Armas de duas mãos não atravessam mais o corpo do personagem.",
+			"image": "novidade_2_0_7.jpg"
+		},
+		{
 			"id": "2.0.6",
 			"title": "Versão 2.0.6",
 			"date": "2026-11-26",
