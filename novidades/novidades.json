@@ -2,6 +2,14 @@
 	"_nota": "Novidades do Eldor Online (launcher: as 8 primeiras; site eldoronline.com.br/novidades: todas). O mais novo primeiro. id = versao, at = hora da publicacao. image = arquivo nesta pasta (1344 x 800, JPG; launcher/imagem_novidade.py gera uma por versao) ou endereco https.",
 	"items": [
 		{
+			"id": "2.0.6",
+			"title": "Versão 2.0.6",
+			"date": "2026-11-26",
+			"at": "2026-11-26T11:53:47-03:00",
+			"text": "Tutorial: antes de escolher os atributos, o Oswin manda você ao campo de treino ao lado da casa. Clique na bolinha de cada arma para testar as 8 classes no nível 60, com todas as habilidades na barra, num boneco de palha. Ao voltar para dentro da casa você volta ao nível 1 e segue o tutorial. Os atributos também ganharam explicações melhores.",
+			"image": "novidade_2_0_6.jpg"
+		},
+		{
 			"id": "2.0.5",
 			"title": "Versão 2.0.5",
 			"date": "2026-11-25",
