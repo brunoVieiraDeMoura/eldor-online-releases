@@ -2,6 +2,14 @@
 	"_nota": "Novidades do Eldor Online (launcher: as 8 primeiras; site eldoronline.com.br/novidades: todas). O mais novo primeiro. id = versao, at = hora da publicacao. image = arquivo nesta pasta (1344 x 800, JPG; launcher/imagem_novidade.py gera uma por versao) ou endereco https.",
 	"items": [
 		{
+			"id": "2.0.8",
+			"title": "Versão 2.0.8",
+			"date": "2026-11-26",
+			"at": "2026-11-26T16:41:26-03:00",
+			"text": "Recompensas e subidas de nível que chegam durante uma viagem agora esperam o mapa novo aparecer e são mostradas uma de cada vez (fim do tutorial incluso). O retrato do personagem passa a usar o tom de pele escolhido.",
+			"image": "novidade_2_0_8.jpg"
+		},
+		{
 			"id": "2.0.7",
 			"title": "Versão 2.0.7",
 			"date": "2026-11-26",
