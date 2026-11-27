@@ -2,6 +2,14 @@
 	"_nota": "Novidades do Eldor Online (launcher: as 8 primeiras; site eldoronline.com.br/novidades: todas). O mais novo primeiro. id = versao, at = hora da publicacao. image = arquivo nesta pasta (1344 x 800, JPG; launcher/imagem_novidade.py gera uma por versao) ou endereco https.",
 	"items": [
 		{
+			"id": "2.1.0",
+			"title": "Versão 2.1.0",
+			"date": "2026-11-27",
+			"at": "2026-11-27T00:17:37-03:00",
+			"text": "Ato III: Valthera (nível 60 a 80). 24 missões novas pelo deserto: a Cidade Soterrada e suas masmorras, a Arena dos Gladiadores, a Biblioteca Perdida e o confronto com Malik Zahir. Acampamentos e mercados novos em Valthera, missões com prazo e chefes com fases. Pistas e quebra-cabeças revistos, a Ponte de Pedra (D3) sobre uma lagoa, e o estreito da Estrada da Seda e Khar-Dun atravessados de barco.",
+			"image": "novidade_2_1_0.jpg"
+		},
+		{
 			"id": "2.0.9",
 			"title": "Versão 2.0.9",
 			"date": "2026-11-26",
