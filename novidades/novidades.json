@@ -2,6 +2,14 @@
 	"_nota": "Novidades do Eldor Online (launcher: as 8 primeiras; site eldoronline.com.br/novidades: todas). O mais novo primeiro. id = versao, at = hora da publicacao. image = arquivo nesta pasta (1344 x 800, JPG; launcher/imagem_novidade.py gera uma por versao) ou endereco https.",
 	"items": [
 		{
+			"id": "2.0.9",
+			"title": "Versão 2.0.9",
+			"date": "2026-11-26",
+			"at": "2026-11-26T22:27:16-03:00",
+			"text": "Tutorial: você acorda enjoado e a Mirela, depois de arrumar seu cabelo e escolher sua cor de pele, oferece um chá que cura o enjoo e revela o seu visual. Peso na barra de buffs (50% sem regeneração, 90% sem atacar, 100% parado). Poção de Velocidade retirada com reembolso; Poção da Fúria nos tesoureiros. EXP só é dividida com até 10 níveis de diferença no mesmo mapa. Correções: campo de treino em contas antigas, tutorial, sussurro, Demo, fragmentos de runa. Jogo desatualizado agora pede para atualizar pelo launcher.",
+			"image": "novidade_2_0_9.jpg"
+		},
+		{
 			"id": "2.0.8",
 			"title": "Versão 2.0.8",
 			"date": "2026-11-26",
