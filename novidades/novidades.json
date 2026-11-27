@@ -2,6 +2,14 @@
 	"_nota": "Novidades do Eldor Online (launcher: as 8 primeiras; site eldoronline.com.br/novidades: todas). O mais novo primeiro. id = versao, at = hora da publicacao. image = arquivo nesta pasta (1344 x 800, JPG; launcher/imagem_novidade.py gera uma por versao) ou endereco https.",
 	"items": [
 		{
+			"id": "2.1.1",
+			"title": "Versão 2.1.1",
+			"date": "2026-11-27",
+			"at": "2026-11-27T11:11:08-03:00",
+			"text": "Dano de vários golpes: cada golpe mostra o seu número e no fim sobe o total em dourado (Lanças de Fogo, Gelo e Raio, Ataque Espiritual, Disparo Duplo, Golpe Sônico, Ataque Duplo do Gatuno e outras). Som ao começar a conjurar removido; o aviso de 'não pode usar' não repete mais toda hora. Siglas fixas de efeito em cima dos monstros removidas. Tutorial: voltar no meio da apresentação da tela não trava mais; o campo de treino ganhou estrada até a porteira.",
+			"image": "novidade_2_1_1.jpg"
+		},
+		{
 			"id": "2.1.0",
 			"title": "Versão 2.1.0",
 			"date": "2026-11-27",
